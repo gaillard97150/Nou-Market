@@ -1,0 +1,10 @@
+function App() {
+  return (
+    <div>
+      <h1>Bienvenue sur NouMarket SXM !</h1>
+      <p>Ton site est prêt Loïc 🎉</p>
+    </div>
+  )
+}
+
+export default App
